@@ -1,0 +1,27 @@
+.jeden {
+    height: 100%;
+    width: 100%;
+}
+
+.dwa {
+    height: 70%;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    font-size: 70px;
+}
+
+a{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+body{
+    background-color: burlywood;
+}
