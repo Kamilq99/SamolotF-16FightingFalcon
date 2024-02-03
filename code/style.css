@@ -16,6 +16,8 @@ body{
 
 p{
     text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
 }
 
 .nav{
@@ -35,7 +37,15 @@ p{
     margin: 0;
     padding: 0;
     overflow: hidden;
+    justify-content: center; /* Wyśrodkowanie w poziomie */
+    align-items: center; /* Wyśrodkowanie w pionie */
+    height: 10vh; /* Ustawienie wysokości kontenera na całą wysokość widoku */
 }
 .nav ul li{
     padding: 0px 20px 0 20px;
+}
+
+img{
+    width: 1200px;
+    
 }
