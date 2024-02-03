@@ -1,0 +1,41 @@
+body{
+    background: #000 url(assets/sky.jpg);
+    background-size: cover;
+    width: 90%; /* Szerokość kontenera jako 90% szerokości okna przeglądarki */
+    max-width: 1200px; /* Maksymalna szerokość kontenera */
+    max-height: 2000px;
+    margin: 0 auto; /* Wycentrowanie kontenera */
+    padding: 20px; /* Dodanie wewnętrznych odstępów */
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 95%; /* Dla mniejszych ekranów zmniejszamy szerokość kontenera */
+    }
+}
+
+p{
+    text-align: justify;
+}
+
+.nav{
+    background-color: white;
+    height: 70px;
+    width: 1200px;
+}
+.nav img{
+    float: left;
+    width: 150px;
+    height: 70px;
+    padding: 0px 5px 0px 0px;
+}
+.nav ul{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.nav ul li{
+    padding: 0px 20px 0 20px;
+}
