@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Krótka Historia F-16</title>
     <link rel='stylesheet' type ='text/css' href='style.css'>
+    <script src="https://cdn.jsdelivr.net/npm/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
 </head>
 <body>
     <div class="nav">
@@ -65,11 +66,19 @@
         </div>
         <div class="odstep"></div>
     </section>
+    <script>
+        // Zainicjuj SmoothScroll
+        document.addEventListener("DOMContentLoaded", function() {
+            const scroll = new SmoothScroll('a[href*="#"]', {
+                speed: 800 // Możesz dostosować szybkość przewijania według własnych preferencji
+            });
+        });
+    </script>
     <div class="footer">
         <ul>
-            <li><a href="www.facebook.com">Facebook</a></li>
-            <li><a href="www.instagram.com">Instagram</a></li>
-            <li><a href="www.twitter.com">Twitter/X</a></li>
+            <li><a href="">Facebook</a></li>
+            <li><a href="">Instagram</a></li>
+            <li><a href="">Twitter/X</a></li>
         </ul>
          <ul>
             <li><a href="aboutman/main.html">O twórcy strony</a></li>
