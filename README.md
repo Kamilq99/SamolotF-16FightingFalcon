@@ -14,6 +14,7 @@ Projekt zawiera podstawowe struktury HTML oraz style CSS, które zostały wykorz
 
 - HTML
 - CSS
+- JavaScript
 
 ## Licencja Zdjęć
 
