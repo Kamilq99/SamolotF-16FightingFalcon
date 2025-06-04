@@ -19,9 +19,3 @@ The project contains basic HTML structures and CSS styles that were used to crea
 ## Image License
 
 The images used in the project are from Pixabay and are available for free use under the Creative Commons license.
-
-## Author
-
-This project was created by @Kxmil99, as part of my own development and portfolio.
-
-Thank you for your interest in the project! If you have any questions or suggestions, please contact me.
