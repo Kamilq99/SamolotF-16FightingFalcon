@@ -1,27 +1,27 @@
-# Portfolio Projektu HTML i CSS
+# HTML and CSS Project Portfolio
 
-## Opis Projektu
+## Project Description
 
-Projekt ten został stworzony w celu ćwiczenia umiejętności związanych z korzystaniem z języków HTML i CSS. Głównym celem było rozwijanie umiejętności tworzenia responsywnych i estetycznych interfejsów internetowych.
+This project was created to practice my HTML and CSS skills. The main goal was to develop my skills in creating responsive and aesthetic web interfaces.
 
-Po dwóch latach od jego pierwotnego utworzenia, postanowiłem wrócić do tego projektu, aby kontynuować jego rozwój. Projektem tym chciałbym zacząć budować swoje portfolio na platformie GitHub, prezentując moje umiejętności w zakresie front-endu.
+After two years since its original creation, I decided to return to this project to continue its development. With this project, I would like to start building my portfolio on GitHub, showcasing my front-end skills.
 
-## Zawartość Projektu
+## Project Content
 
-Projekt zawiera podstawowe struktury HTML oraz style CSS, które zostały wykorzystane do stworzenia prostego interfejsu użytkownika. Do projektu dołączyłem również darmowe zdjęcia z platformy Pixabay, aby wzbogacić jego treść i wizualną atrakcyjność.
+The project contains basic HTML structures and CSS styles that were used to create a simple user interface. I also included free images from Pixabay to enrich its content and visual appeal.
 
-## Jakie Technologie Zostały Wykorzystane
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## Licencja Zdjęć
+## Image License
 
-Zdjęcia wykorzystane w projekcie pochodzą z serwisu Pixabay i są dostępne do użytku bezpłatnego na licencji Creative Commons.
+The images used in the project are from Pixabay and are available for free use under the Creative Commons license.
 
-## Autor
+## Author
 
-Ten projekt został stworzony przez @Kxmil99, jako część własnego rozwoju oraz portfolio.
+This project was created by @Kxmil99, as part of my own development and portfolio.
 
-Dziękuję za zainteresowanie projektem! Jeśli masz jakieś pytania lub sugestie, proszę o kontakt.
+Thank you for your interest in the project! If you have any questions or suggestions, please contact me.
