@@ -3,7 +3,7 @@ name: Airplane Workflow
 on:
   push:
     branches:
-      - master
+      - changes
   pull_request:
     branches:
       - master
@@ -16,5 +16,5 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Print Hello
-        run: echo "Hello World"
+      - name: Print Info
+        run: echo "Changes at your static site was done!"
