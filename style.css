@@ -1,0 +1,18 @@
+body {
+  background-image: url('/assets/sky.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+main {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 0 0 20px rgba(0,0,0,0.4);
+}
+
+main p, main h1, main h2 {
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
+}
